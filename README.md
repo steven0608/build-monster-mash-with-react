@@ -1,3 +1,16 @@
+#Build react app (monster-mash)    
+Stores users'drawings and randomly generate them on the homepage.   
+
+demo: https://monster-mash-frontend-react.herokuapp.com/  
+Have fun with your friends!!!  
+
+Group Project: Steven Chen, Max Smouha and Carl Reiser (Tony)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
